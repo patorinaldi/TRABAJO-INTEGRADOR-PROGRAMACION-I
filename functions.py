@@ -99,7 +99,7 @@ def cargar_datos_ejemplo():
     n = int(input("Ingrese la cantidad de datos de ejemplo a cargar: "))
     personas = Faker()
     print(f"✓ Se cargaron {n} nombres de ejemplo.")
-    return [personas.name() for _ in range(n)]
+    return [personas.first_name() for _ in range(n)]
 
 #Muestra de datos
 def mostrar_lista(personas):
