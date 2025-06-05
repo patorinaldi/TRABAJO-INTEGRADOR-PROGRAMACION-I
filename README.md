@@ -8,9 +8,9 @@ Este proyecto implementa diversos algoritmos de búsqueda y ordenamiento de dato
   - Búsqueda lineal
   - Búsqueda binaria
 - Implementación de algoritmos de ordenamiento como:
-  - Ordenamiento burbuja
-  - Ordenamiento por inserción
-  - Ordenamiento rápido (Quicksort)
+  - Bubble sort
+  - Selection sort
+  - Insertion sort
 - Se agrega el tiempo que lleva cada ejecucion
 
 ## Instalación
