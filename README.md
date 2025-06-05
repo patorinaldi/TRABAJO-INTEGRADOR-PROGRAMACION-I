@@ -18,6 +18,23 @@ Este proyecto implementa diversos algoritmos de búsqueda y ordenamiento de dato
    ```sh
    git clone https://github.com/ClauRodriguez/TRABAJO-INTEGRADOR-PROGRAMACION-I.git
 
+2. Ejecuta git pull para actualizar el repositorio:
+   ```sh
+   git clone
+
+3. Instala la libreria Faker:
+   ```sh
+   pip install Faker
+
+4. Ejecuta el programa:
+    a. Abre consola
+    b. Ubicate en el repositorio del proyecto
+    c. Ejecuta 
+    ```sh
+    python .\main.py  
+
+
+
 
 
 #Integrantes
