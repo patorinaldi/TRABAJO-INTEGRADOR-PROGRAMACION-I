@@ -20,7 +20,7 @@ Este proyecto implementa diversos algoritmos de búsqueda y ordenamiento de dato
 
 2. Ejecuta git pull para actualizar el repositorio:
    ```sh
-   git clone
+   git pull
 
 3. Instala la libreria Faker:
    ```sh
