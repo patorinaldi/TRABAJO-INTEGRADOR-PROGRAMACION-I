@@ -43,3 +43,6 @@ Este proyecto implementa diversos algoritmos de búsqueda y ordenamiento de dato
 
 #Comision
   •20  
+
+#Presentacion del programa en video
+https://youtu.be/LKov69HIsik
